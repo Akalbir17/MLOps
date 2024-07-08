@@ -102,5 +102,5 @@ The dataset primarily focuses on variables/features describing the origin of the
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Conclusion
-In this project, we developed a lead scoring system to predict the likelihood of a lead purchasing the product. By leveraging data preprocessing, model experimentation using Pycaret, and pipeline orchestration with Airflow, we were able to build an efficient and automated solution. The best-performing model, LightGBM, achieved an accuracy of [89%]. This system will help the ed-tech startup reduce its customer acquisition cost by focusing on high-quality leads and optimizing its marketing efforts.
+In this project, we developed a lead scoring system to predict the likelihood of a lead purchasing the product. By leveraging data preprocessing, model experimentation using Pycaret, and pipeline orchestration with Airflow, we were able to build an efficient and automated solution. The best-performing model, LightGBM, achieved an accuracy of `89%`. This system will help the ed-tech startup reduce its customer acquisition cost by focusing on high-quality leads and optimizing its marketing efforts.
 
