@@ -1,4 +1,4 @@
-# Lead Scoring Case Study
+# MLOps Lead Scoring 
 
 ## Table of Contents
 - [Problem Statement](#problem-statement)
