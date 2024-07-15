@@ -1,4 +1,4 @@
-# MLOps Lead Scoring 
+# Predictive Lead Scoring for Cost-Effective Customer Acquisition
 
 ## Table of Contents
 - [Problem Statement](#problem-statement)
